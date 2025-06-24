@@ -13,7 +13,7 @@ const UdemyCourseSchema = z.object({
 });
 
 export const UdemyResponseSchema = z.object({
-    courses: UdemyCourseSchema,
+    courses: z.array(UdemyCourseSchema),
     total: z.number()
 });
 
