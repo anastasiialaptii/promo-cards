@@ -1,7 +1,7 @@
 # Promo cards
 
 This project is created for purely studying purpose.\
-It's simple, small and not super tailored.
+It's simple, small and not super tailored 🦈
 
 ## Available Scripts
 
